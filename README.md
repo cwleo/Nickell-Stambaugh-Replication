@@ -3,6 +3,8 @@
 **Nickell Meets Stambaugh: A Tale of Two Biases in Panel Predictive Regressions**  
 Chengwang Liao, Ziwei Mei, and Zhentao Shi
 
+Article: [https://doi.org/10.1016/j.jeconom.2026.106347](https://doi.org/10.1016/j.jeconom.2026.106347)
+
 This repository contains the code for the simulations (Figures 2–4) and empirical application (Figure 5 and Tables 1–2) in the main text.
 
 ## Files
